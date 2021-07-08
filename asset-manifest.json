@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/fancy-store/static/js/main.229b30ec.chunk.js",
-    "main.js.map": "/fancy-store/static/js/main.229b30ec.chunk.js.map",
-    "runtime-main.js": "/fancy-store/static/js/runtime-main.da7da4e7.js",
-    "runtime-main.js.map": "/fancy-store/static/js/runtime-main.da7da4e7.js.map",
-    "static/js/2.53228cb9.chunk.js": "/fancy-store/static/js/2.53228cb9.chunk.js",
-    "static/js/2.53228cb9.chunk.js.map": "/fancy-store/static/js/2.53228cb9.chunk.js.map",
-    "index.html": "/fancy-store/index.html",
-    "static/js/2.53228cb9.chunk.js.LICENSE.txt": "/fancy-store/static/js/2.53228cb9.chunk.js.LICENSE.txt",
-    "static/media/pexels-andrea-piacquadio-842811.acdc86ca.jpg": "/fancy-store/static/media/pexels-andrea-piacquadio-842811.acdc86ca.jpg",
-    "static/media/pexels-kristina-paukshtite-1460838.3604377d.jpg": "/fancy-store/static/media/pexels-kristina-paukshtite-1460838.3604377d.jpg",
-    "static/media/pexels-porapak-apichodilok-346752.fd26794b.jpg": "/fancy-store/static/media/pexels-porapak-apichodilok-346752.fd26794b.jpg",
-    "static/media/pexels-spencer-selover-428338.9a0d6374.jpg": "/fancy-store/static/media/pexels-spencer-selover-428338.9a0d6374.jpg"
+    "main.js": "/the-clothing-store/static/js/main.19dabaa1.chunk.js",
+    "main.js.map": "/the-clothing-store/static/js/main.19dabaa1.chunk.js.map",
+    "runtime-main.js": "/the-clothing-store/static/js/runtime-main.b9933a49.js",
+    "runtime-main.js.map": "/the-clothing-store/static/js/runtime-main.b9933a49.js.map",
+    "static/js/2.b4e0ebae.chunk.js": "/the-clothing-store/static/js/2.b4e0ebae.chunk.js",
+    "static/js/2.b4e0ebae.chunk.js.map": "/the-clothing-store/static/js/2.b4e0ebae.chunk.js.map",
+    "index.html": "/the-clothing-store/index.html",
+    "static/js/2.b4e0ebae.chunk.js.LICENSE.txt": "/the-clothing-store/static/js/2.b4e0ebae.chunk.js.LICENSE.txt",
+    "static/media/pexels-andrea-piacquadio-842811.acdc86ca.jpg": "/the-clothing-store/static/media/pexels-andrea-piacquadio-842811.acdc86ca.jpg",
+    "static/media/pexels-kristina-paukshtite-1460838.3604377d.jpg": "/the-clothing-store/static/media/pexels-kristina-paukshtite-1460838.3604377d.jpg",
+    "static/media/pexels-porapak-apichodilok-346752.fd26794b.jpg": "/the-clothing-store/static/media/pexels-porapak-apichodilok-346752.fd26794b.jpg",
+    "static/media/pexels-spencer-selover-428338.9a0d6374.jpg": "/the-clothing-store/static/media/pexels-spencer-selover-428338.9a0d6374.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.da7da4e7.js",
-    "static/js/2.53228cb9.chunk.js",
-    "static/js/main.229b30ec.chunk.js"
+    "static/js/runtime-main.b9933a49.js",
+    "static/js/2.b4e0ebae.chunk.js",
+    "static/js/main.19dabaa1.chunk.js"
   ]
 }
