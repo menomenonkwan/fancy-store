@@ -115,12 +115,12 @@ function App() {
       <Wrapper>
         <AnimatePresence exitBeforeEnter> 
           <Switch location={location} key={location.key}>
-            <Route exact path="/" component={Home} />
-            <Route path="/shop">
+            <Route exact path="/the-clothing-store/" component={Home} />
+            <Route path="/the-clothing-store/shop">
               <Shop products={data} addToCart={addToCart} isLoading={isLoading} error={error}/>
             </Route>
-            <Route path="/contact" component={Contact} />
-            <Route path="/department/:department">
+            <Route path="/the-clothing-store/contact" component={Contact} />
+            <Route path="/the-clothing-store/department/:department">
               <Department products={data} addToCart={addToCart} isLoading={isLoading} error={error}/>
             </Route>
             <Route component={NotFound} />

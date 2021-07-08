@@ -48,13 +48,13 @@ const Navbar = ({ setCartIsOpen, countCartItems }) => {
   return (  
     <StyledNavbar>
       <ul>
-        <NavLink to="/" exact activeClassName="selected">
+        <NavLink to="/the-clothing-store/" exact activeClassName="selected">
           <li>Home</li>
         </NavLink>
-        <NavLink to="/shop" activeClassName="selected">
+        <NavLink to="/the-clothing-store/shop" activeClassName="selected">
           <li>Shop</li>
         </NavLink>
-        <NavLink to="/contact" activeClassName="selected">
+        <NavLink to="/the-clothing-store/contact" activeClassName="selected">
           <li>Contact</li>
         </NavLink>
         <li>

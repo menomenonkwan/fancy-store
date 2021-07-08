@@ -28,7 +28,7 @@ const Categories = () => {
   return ( 
     <Wrapper>
       {categories.map(category => (
-        <Link to={`/department/${category.description}`} key={category.id}>
+        <Link to={`/the-clothing-store/department/${category.description}`} key={category.id}>
           <CategoryCard category={category} />
         </Link>
       ))}

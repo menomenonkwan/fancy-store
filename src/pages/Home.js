@@ -21,7 +21,7 @@ const Home = () => {
         <div>
           <h2>Summer Collection 2022</h2>
           <h1>Get up to 50% off New Arrivals</h1>
-          <NavLink to="/shop">
+          <NavLink to="/the-clothing-store/shop">
             <Button>Shop Now</Button>
           </NavLink>
         </div>

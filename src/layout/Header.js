@@ -60,7 +60,7 @@ const Header = ({ setCartIsOpen, countCartItems }) => {
   return (  
     <StyledHeader>
       <Logo>
-        <NavLink to="/">
+        <NavLink to="/the-clothing-store/">
           <h2>The Clothing Store</h2>
         </NavLink>
       </Logo>
